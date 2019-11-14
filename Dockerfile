@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/defaultbackend-amd64
+FROM gcr.io/google-containers/defaultbackend-amd64:1.5
